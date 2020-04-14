@@ -16,7 +16,8 @@ YellowBox.ignoreWarnings([
     'RNSketchCanvas',
     'Warning: Failed prop type: Invalid prop',
     'Possible Unhandled Promise',
-    'Warning: DatePickerAndroid has been merged'
+    'Warning: DatePickerAndroid has been merged',
+    'Warning: componentWillReceiveProps has been renamed, and is not recommended for use'
 ]);
 
 

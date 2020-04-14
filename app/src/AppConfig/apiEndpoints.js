@@ -1,5 +1,5 @@
 const endpoints = {
-    uriBase : 'https://16d33f8f.ngrok.io',
+    uriBase : 'http://change.pcwalp.com',
     clientId : '4_4bdhpwwyuq0wcoc0wk800gcsk48088ss4o04osocoskkko40kw',
     clientSecret : '1xjiyp8qejy88os440kg88ksgw0sggws00w088kk844wcwg8k8',
     grantType : 'password',
